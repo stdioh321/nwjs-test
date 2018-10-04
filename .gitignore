@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# Folder created on the build process
+build/
+cache/
