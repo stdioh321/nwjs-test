@@ -17,7 +17,7 @@ $ npm start
 # Build as a native application
 
 ```sh
-$ npm install
+$ npm run-script build
 ```
 
 # # On Windows
